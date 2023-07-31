@@ -1,0 +1,7 @@
+[[layers]]
+    name = "challege-cocus"
+    version = "0.0.1"
+    packages = [
+        'prettytable==3.8.0',
+        'python-dateutil==2.8.2'
+    ]

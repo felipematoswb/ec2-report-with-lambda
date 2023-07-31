@@ -1,0 +1,12 @@
+boto3==1.28.15
+botocore==1.31.15
+click==7.1.2
+jmespath==1.0.1
+lambda-layer==0.0.4
+prettytable==3.8.0
+python-dateutil==2.8.2
+s3transfer==0.6.1
+six==1.16.0
+toml==0.10.2
+urllib3==1.26.16
+wcwidth==0.2.6
